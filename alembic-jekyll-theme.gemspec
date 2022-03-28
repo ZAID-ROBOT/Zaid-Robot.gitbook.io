@@ -7,8 +7,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["itsunknown122@gmail.com"]
 
   spec.summary       = %q{A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.}
-  spec.description   = "A Jekyll boilerplate theme designed to be a starting point for any Jekyll website. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately."
-  spec.homepage      = "https://alembic.darn.es"
+  spec.description   = "This Website Designed By [Zaid](https://t.me/Timesisnotwaiting) To Make Affective Information About Zaid 🤨."
+  spec.homepage      = "https://zaid-robot.github.io/"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
