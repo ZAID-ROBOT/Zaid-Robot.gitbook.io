@@ -3,7 +3,7 @@ title: Contact
 feature_text: |
   Contact Meh Directly
 feature_image: "https://telegra.ph/file/c1f9a3bf417278f4ca0d6.jpg"
-excerpt: "Contact Meh Directly"
+excerpt: ""
 aside: true
 ---
 
@@ -23,5 +23,5 @@ aside: true
 
 {% include button.html text="Instagram" link="https://www.instagram.com/timesisnotwaiting/" icon="instagram" %}
 
-{% include button.html text="Telegram" link="https://t.me/Timesisnotwaiting" icon="instagram" %}
+{% include button.html text="Telegram" link="https://t.me/Timesisnotwaiting" icon="telegram" %}
 
