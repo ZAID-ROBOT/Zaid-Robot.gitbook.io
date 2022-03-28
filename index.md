@@ -4,7 +4,7 @@ feature_text: |
   ## Zaid Robot
   ᴀɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ꜰᴜɴ ᴇxᴛʀᴀꜱ ;)
 feature_image: "https://telegra.ph/file/8cbad768da9799f9f0073.jpg"
-excerpt: "Zaid is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "This Website Designed By [Zaid](https://t.me/Timesisnotwaiting) To Make Affective Information About Zaid 🤨."
 ---
 
 Zaid is a Safest and affective [Telegram](https://t.me/Zaid2_Robot) Management Bot. Some Extra Features.
