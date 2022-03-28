@@ -1,7 +1,7 @@
 ---
 title: Contact
 feature_text: |
-  Contact Meh Directly
+  
 feature_image: "https://telegra.ph/file/c1f9a3bf417278f4ca0d6.jpg"
 excerpt: ""
 aside: true
