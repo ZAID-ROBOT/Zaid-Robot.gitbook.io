@@ -66,6 +66,7 @@ Here is the Some Basic Information about Zaid
 ### Quick setup Guide
 
 The first thing to do is to [Add Zaid](https://t.me/Zaid2_Robot?startgroup=true) to your group! For doing that, press the link and select your group
+- {% include button.html text="Add Zaid To Your Chat" link="https://t.me/Zaid2_Robot?startgroup=true" color="#24292e" %}
 
 **Now for let me work correctly, you need to make me Admin of your Group!**
 
