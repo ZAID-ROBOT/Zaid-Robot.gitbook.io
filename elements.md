@@ -2,7 +2,7 @@
 title: Contact
 feature_text: |
   Contact Meh Directly
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "https://telegra.ph/file/c1f9a3bf417278f4ca0d6.jpg"
 excerpt: "Contact Meh Directly"
 aside: true
 ---
