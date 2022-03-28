@@ -3,13 +3,13 @@ title: About Zaid Robot
 feature_text: |
   ## Zaid Robot
   ᴀɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ꜰᴜɴ ᴇxᴛʀᴀꜱ ;)
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://telegra.ph/file/8cbad768da9799f9f0073.jpg"
 excerpt: "Zaid is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
 Zaid is a Safest and affective [Telegram](https://t.me/Zaid2_Robot) Management Bot. Some Extra Features.
 
-{% include button.html text="Follow me" icon="github" link="https://github.com/ITZ-ZAID" color="#0366d6" %} {% include button.html text="Add Zaid Robot ➕" link="https://t.me/Zaid2_Robot?startgroup=true" color="#f68140" %} {% include button.html text="Support" icon="telegram" link="https://t.me/Superior_Support" color="#0d94e7" %} {% include button.html text="Updates Channel ⚗️" link="https://t.me/Superior_Bots" %}
+{% include button.html text="Follow me" icon="github" link="https://github.com/ITZ-ZAID" color="#0366d6" %} {% include button.html text="Add Zaid Robot ➕" link="https://t.me/Zaid2_Robot?startgroup=true" color="#f68140" %} {% include button.html text="Support" icon="telegram" link="https://t.me/Superior_Support" color="#0d94e7" %} {% include button.html text="Updates Channel ⚗️" link="https://t.me/Superior_Bots" %} {% include button.html text="Donate💲" link="https://rzp.io/l/GODFATHERDONATIONS" color="#f68140" %}
 
 ## Features
 
@@ -21,7 +21,7 @@ Zaid is a Safest and affective [Telegram](https://t.me/Zaid2_Robot) Management B
 - ꜱᴀᴠᴇ ɴᴏᴛᴇꜱ ᴀɴᴅ ꜰɪʟᴛᴇʀꜱ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ꜰᴏʀᴍᴀᴛᴛɪɴɢ ᴀɴᴅ ʀᴇᴘʟʏ ᴍᴀʀᴋᴜᴘ.
 - ʏᴏᴜ ᴄᴀɴ ᴘʟᴀʏ ꜱᴏɴɢꜱ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ/ᴄʜᴀɴɴᴇʟ ᴠᴄ ᴄʜᴀᴛ
 - ʏᴏᴜ ᴄᴀɴ ꜰɪɴᴅ ᴀɴʏᴏɴᴇ ɴᴀᴍᴇ ʜɪꜱᴛᴏʀʏ ᴜꜱɪɴɢ ᴢᴀɪᴅ ʀᴏʙᴏᴛ
-- ᴛʀʏ /setlang ᴛᴏ ᴄʜᴀɴɢᴇ ᴛʜᴇ ʙᴏᴛ ʟᴀɴɢᴜᴀɢᴇ (ɴᴏᴛᴇ ᴄᴜʀʀᴇɴᴛʟʏ ɪꜱ ᴇɴɢʟɪꜱʜ ꜱᴜᴘᴘᴏʀᴛᴇᴅ)
+- ᴛʀʏ `/setlang` ᴛᴏ ᴄʜᴀɴɢᴇ ᴛʜᴇ ʙᴏᴛ ʟᴀɴɢᴜᴀɢᴇ (ɴᴏᴛᴇ ᴄᴜʀʀᴇɴᴛʟʏ ɪꜱ ᴇɴɢʟɪꜱʜ ꜱᴜᴘᴘᴏʀᴛᴇᴅ)
 - ɪ ʜᴀᴠᴇ ʟᴏᴛꜱ ᴏꜰ ꜰᴇᴀᴛᴜʀᴇꜱ ᴡʜɪᴄʜ ʏᴏᴜ ʟɪᴋᴇ.
 - ᴛʜᴇʀᴇꜱ ᴇᴠᴇɴ ᴍᴏʀᴇ! ᴛʜɪꜱ ɪꜱ ᴊᴜꜱᴛ ᴛʜᴇ ᴛɪᴘ ᴏꜰ ᴛʜᴇ ɪᴄᴇʙᴇʀɢ. ᴅᴏ ɴᴏᴛᴇ ɪ ɴᴇᴇᴅ
 ᴛᴏ ʙᴇ ᴘʀᴏᴍᴏᴛᴇᴅ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ᴀᴅᴍɪɴ ᴘᴇʀᴍɪꜱꜱɪᴏɴꜱ ᴛᴏ ꜰᴜɴᴄᴛɪᴏɴ ᴘʀᴏᴘᴇʀʟʏ. 
@@ -58,14 +58,14 @@ Here is the Some Basic Information about Zaid
 - Base Commands.
 - 👮🏻Available to Admins&Moderators.
 - 🕵🏻Available to Admins.
-- 👮🏻/reload updates the Admins list and their privileges.
-- 🕵🏻/settings lets you manage all the Bot settings in a group.
-- 👮🏻/ban lets you ban a user from the group without giving him the possibility to join again using the link of the group.
-- 👮🏻/mute puts a user in read-only mode. He can read but he can't send any messages.
-- 👮🏻 /kick bans a user from the group, giving him the possibility to join again with the link of the group.
-- 👮🏻/unban lets you remove a user from group's blacklist, giving them the possibility to join again with the link of the group.
-- 👮🏻/info gives information about a user.
-- ◽️/admins gives the complete List of group Staff!.
+- 👮🏻 `/reload` updates the Admins list and their privileges.
+- 🕵🏻 `/settings` lets you manage all the Bot settings in a group.
+- 👮🏻 `/ban` lets you ban a user from the group without giving him the possibility to join again using the link of the group.
+- 👮🏻 `/mute` puts a user in read-only mode. He can read but he can't send any messages.
+- 👮🏻 `/kick` bans a user from the group, giving him the possibility to join again with the link of the group.
+- 👮🏻 `/unban` lets you remove a user from group's blacklist, giving them the possibility to join again with the link of the group.
+- 👮🏻 `/info` gives information about a user.
+- ◽️ `/admins` gives the complete List of group Staff!.
 
 ## Advanced Information ℹ️
 
@@ -76,15 +76,15 @@ Here is the Some Basic Information about Zaid
 - 🛃 Available to Admins&Cleaners
 
 - **WARN MANAGEMENT**
-- 👮🏻 /warn adds a warn to the user
-- 👮🏻 /unwarn removes a warn to the user
-- 👮🏻 /warns lets you see and manage user warns
-- 🕵🏻 /delwarn deletes the message and add a warn to the user
-- 🛃 /del deletes the selected message
-- 🛃 /purge deletes from the selected message.
+- 👮🏻 `/warn` adds a warn to the user
+- 👮🏻 `/unwarn` removes a warn to the user
+- 👮🏻 `/warns` lets you see and manage user warns
+- 🕵🏻 `/delwarn` deletes the message and add a warn to the user
+- 🛃 `/del` deletes the selected message
+- 🛃 `/purge` deletes from the selected message.
 
-- ◽️/feedback: (message) to Send message and errors which you are facing 
-- ex:/feedback Hey There Is a Something Error @username of chat!.
+- ◽️ `/feedback`: (message) to Send message and errors which you are facing 
+- ex: `/feedback Hey There Is a Something Error @username of chat`!.
 
 
 ### Donation?
