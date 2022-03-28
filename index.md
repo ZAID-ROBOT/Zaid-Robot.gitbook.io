@@ -2,9 +2,9 @@
 title: About Zaid Robot
 feature_text: |
   ## Zaid Robot
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ᴀɴ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ꜰᴜɴ ᴇxᴛʀᴀꜱ ;)
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Zaid is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
@@ -13,12 +13,12 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 
 ## Features
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
+- **ɪ ᴄᴀɴ ᴅᴏ ᴀ ᴠᴀʀɪᴇᴛʏ ᴏꜰ ᴛʜɪɴɢꜱ, ᴍᴏꜱᴛ ᴄᴏᴍᴍᴏɴ ᴏꜰ ᴇᴍ ᴀʀᴇ**:
+- ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ ᴡɪᴛʜ ʙᴀɴ ᴘᴇʀᴍɪꜱꜱɪᴏɴꜱ.
+- ɢʀᴇᴇᴛ ᴜꜱᴇʀꜱ ᴡɪᴛʜ ᴍᴇᴅɪᴀ + ᴛᴇxᴛ ᴀɴᴅ ʙᴜᴛᴛᴏɴꜱ, ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ꜰᴏʀᴍᴀᴛᴛɪɴɢ.
+- ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ ᴡʜᴏ ꜰʟᴏᴏᴅ ʏᴏᴜʀ ᴄʜᴀᴛ ᴜꜱɪɴɢ ᴍʏ ᴀɴᴛɪ-ꜰʟᴏᴏᴅ ᴍᴏᴅᴜʟᴇ.
+- ᴡᴀʀɴ ᴜꜱᴇʀꜱ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴛʜᴇ ᴏᴘᴛɪᴏɴꜱ ꜱᴇᴛ ᴀɴᴅ ʀᴇꜱᴛʀɪᴄᴛ ᴇᴍ ᴀᴄᴄᴏʀᴅɪɴɢʟʏ.
+- ꜱᴀᴠᴇ ɴᴏᴛᴇꜱ ᴀɴᴅ ꜰɪʟᴛᴇʀꜱ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ꜰᴏʀᴍᴀᴛᴛɪɴɢ ᴀɴᴅ ʀᴇᴘʟʏ ᴍᴀʀᴋᴜᴘ.
 - Solid **typographic framework** from [Sassline](https://sassline.com/)
 - Configurable navigation via a single file
 - Modular Jekyll components
