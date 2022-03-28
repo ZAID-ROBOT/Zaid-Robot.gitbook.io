@@ -16,19 +16,12 @@ aside: true
 {% raw %}{% include site-form.html %}{% endraw %}
 ```
 
-### Demo map embed
 
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
-
-``` html
-{% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
-```
-
-### Button include
+### Ask Questions To My Owner
 
 {% include button.html text="Email" link="itsunknown122@gmail.com" %}
 
-{% include button.html text="Instagram" link="" icon="instagram" %}
+{% include button.html text="Instagram" link="https://www.instagram.com/timesisnotwaiting/" icon="instagram" %}
 
 {% include button.html text="Telegram" link="https://t.me/Timesisnotwaiting" icon="instagram" %}
 
