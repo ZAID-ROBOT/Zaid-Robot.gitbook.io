@@ -28,6 +28,29 @@ Zaid is a Safest and affective [Telegram](https://t.me/Zaid2_Robot) Management B
 ᴇʟꜱᴇ ɪ ᴡᴏɴ'ᴛ ʙᴇ ᴀʙʟᴇ ᴛᴏ ꜰᴜɴᴄᴛɪᴏɴ ᴀꜱ ꜱᴀɪᴅ.
 - [Go To Zaid Robot Pm](https://t.me/Zaid2_Robot)
 
+### Quick setup Guide
+
+The first thing to do is to [Add Zaid](https://t.me/Zaid2_Robot?startgroup=true) to your group! For doing that, press the link and select your group
+- {% include button.html text="Add Zaid To Your Chat" link="https://t.me/Zaid2_Robot?startgroup=true" color="#24292e" %}
+
+**Now for let me work correctly, you need to make me Admin of your Group!**
+
+To do that, follow this easy steps: 
+- ▫️ Go to your group
+- ▫️ Press the Group's name
+- ▫️ Press Modify
+- ▫️ Press on Administrator
+- ▫️ Press Add Administrator
+- ▫️ Press the Magnifying Glass
+- ▫️ Search `@Zaid2_Robot`
+- ▫️ Confirm
+
+- **Now the Bot is ready to use**!
+
+Using the `/settings` command you have at your disposal a series of things that can be modified how you prefer, as required for your group.
+
+- Join also To Our [Support](https://t.me/Superior_Support) and [Updates Channel](https://t.me/Superior_Bots) to Get Letest News
+
 ## Basic Information
 
 Here is the Some Basic Information about Zaid
@@ -63,33 +86,14 @@ Here is the Some Basic Information about Zaid
 - ◽️/feedback: (message) to Send message and errors which you are facing 
 - ex:/feedback Hey There Is a Something Error @username of chat!.
 
-### Quick setup Guide
-
-The first thing to do is to [Add Zaid](https://t.me/Zaid2_Robot?startgroup=true) to your group! For doing that, press the link and select your group
-- {% include button.html text="Add Zaid To Your Chat" link="https://t.me/Zaid2_Robot?startgroup=true" color="#24292e" %}
-
-**Now for let me work correctly, you need to make me Admin of your Group!**
-
-To do that, follow this easy steps: 
-- ▫️ Go to your group
-- ▫️ Press the Group's name
-- ▫️ Press Modify
-- ▫️ Press on Administrator
-- ▫️ Press Add Administrator
-- ▫️ Press the Magnifying Glass
-- ▫️ Search `@Zaid2_Robot`
-- ▫️ Confirm
-
-- **Now the Bot is ready to use**!
-
-Using the /settings command you have at your disposal a series of things that can be modified how you prefer, as required for your group.
-
-- Join also To Our [Support](https://t.me/Superior_Support) and [Updates Channel](https://t.me/Superior_Bots) to Get Letest News
 
 ### Donation?
 
-- Your Small supports Can Make Affective Zaid on Telegram
+**Your Small supports Can Make Affective Zaid on Telegram**
+
 - [Via Indian Banking/wallet/UPI etc](https://rzp.io/l/GODFATHERDONATIONS)
+
 - [Via Paypal](https://www.paypal.me/mrakki58)
-- Crypto BTC. `bc1q2jfgvczeye5e6kduvfayhwj6lkwkcjr4u70v34`
+
+- Crypto Wallet BTC. `bc1q2jfgvczeye5e6kduvfayhwj6lkwkcjr4u70v34`
 
