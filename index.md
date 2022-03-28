@@ -7,9 +7,9 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Zaid is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Zaid is a Safest and affective [Telegram](https://t.me/Zaid2_Robot) Management Bot. Some Extra Information.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Follow me" icon="github" link="https://github.com/ITZ-ZAID" color="#0366d6" %} {% include button.html text="Add Zaid Robot ➕" link="https://t.me/Zaid2_Robot?startgroup=true" color="#f68140" %} {% include button.html text="Support" icon="telegram" link="https://t.me/Superior_Support" color="#0d94e7" %} {% include button.html text="Updates Channel ⚗️" link="https://t.me/Superior_Bots" %}
 
 ## Features
 
@@ -28,17 +28,42 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 ᴇʟꜱᴇ ɪ ᴡᴏɴ'ᴛ ʙᴇ ᴀʙʟᴇ ᴛᴏ ꜰᴜɴᴄᴛɪᴏɴ ᴀꜱ ꜱᴀɪᴅ.
 - [Go To Zaid Robot Pm](https://t.me/Zaid2_Robot)
 
-## Examples
+## Basic Information
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+Here is the Some Basic Information about Zaid
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+- Base Commands.
+- 👮🏻Available to Admins&Moderators.
+- 🕵🏻Available to Admins.
+- 👮🏻/reload updates the Admins list and their privileges.
+- 🕵🏻/settings lets you manage all the Bot settings in a group.
+- 👮🏻/ban lets you ban a user from the group without giving him the possibility to join again using the link of the group.
+- 👮🏻/mute puts a user in read-only mode. He can read but he can't send any messages.
+- 👮🏻 /kick bans a user from the group, giving him the possibility to join again with the link of the group.
+- 👮🏻/unban lets you remove a user from group's blacklist, giving them the possibility to join again with the link of the group.
+- 👮🏻/info gives information about a user.
+- ◽️/admins gives the complete List of group Staff!.
 
-## Installation
+## Advanced Information ℹ️
 
-### Quick setup
+- **Advanced Commands**
+
+- 👮🏻Available to Admins&Moderators.
+- 🕵🏻Available to Admins.
+- 🛃 Available to Admins&Cleaners
+
+- **WARN MANAGEMENT**
+- 👮🏻 /warn adds a warn to the user
+- 👮🏻 /unwarn removes a warn to the user
+- 👮🏻 /warns lets you see and manage user warns
+- 🕵🏻 /delwarn deletes the message and add a warn to the user
+- 🛃 /del deletes the selected message
+- 🛃 /purge deletes from the selected message.
+
+- ◽️/feedback: (message) to Send message and errors which you are facing 
+- ex:/feedback Hey There Is a Something Error @username of chat!.
+
+### Quick setup Guide
 
 To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
 
