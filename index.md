@@ -2,7 +2,7 @@
 title: About Zaid Robot
 feature_text: |
   ## Zaid Robot
-  ᴀɴ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ꜰᴜɴ ᴇxᴛʀᴀꜱ ;)
+  ᴀɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ꜰᴜɴ ᴇxᴛʀᴀꜱ ;)
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Zaid is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
@@ -19,15 +19,14 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 - ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ ᴡʜᴏ ꜰʟᴏᴏᴅ ʏᴏᴜʀ ᴄʜᴀᴛ ᴜꜱɪɴɢ ᴍʏ ᴀɴᴛɪ-ꜰʟᴏᴏᴅ ᴍᴏᴅᴜʟᴇ.
 - ᴡᴀʀɴ ᴜꜱᴇʀꜱ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴛʜᴇ ᴏᴘᴛɪᴏɴꜱ ꜱᴇᴛ ᴀɴᴅ ʀᴇꜱᴛʀɪᴄᴛ ᴇᴍ ᴀᴄᴄᴏʀᴅɪɴɢʟʏ.
 - ꜱᴀᴠᴇ ɴᴏᴛᴇꜱ ᴀɴᴅ ꜰɪʟᴛᴇʀꜱ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ꜰᴏʀᴍᴀᴛᴛɪɴɢ ᴀɴᴅ ʀᴇᴘʟʏ ᴍᴀʀᴋᴜᴘ.
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+- ʏᴏᴜ ᴄᴀɴ ᴘʟᴀʏ ꜱᴏɴɢꜱ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ/ᴄʜᴀɴɴᴇʟ ᴠᴄ ᴄʜᴀᴛ
+- ʏᴏᴜ ᴄᴀɴ ꜰɪɴᴅ ᴀɴʏᴏɴᴇ ɴᴀᴍᴇ ʜɪꜱᴛᴏʀʏ ᴜꜱɪɴɢ ᴢᴀɪᴅ ʀᴏʙᴏᴛ
+- ᴛʀʏ /setlang ᴛᴏ ᴄʜᴀɴɢᴇ ᴛʜᴇ ʙᴏᴛ ʟᴀɴɢᴜᴀɢᴇ (ɴᴏᴛᴇ ᴄᴜʀʀᴇɴᴛʟʏ ɪꜱ ᴇɴɢʟɪꜱʜ ꜱᴜᴘᴘᴏʀᴛᴇᴅ)
+- ɪ ʜᴀᴠᴇ ʟᴏᴛꜱ ᴏꜰ ꜰᴇᴀᴛᴜʀᴇꜱ ᴡʜɪᴄʜ ʏᴏᴜ ʟɪᴋᴇ.
+- ᴛʜᴇʀᴇꜱ ᴇᴠᴇɴ ᴍᴏʀᴇ! ᴛʜɪꜱ ɪꜱ ᴊᴜꜱᴛ ᴛʜᴇ ᴛɪᴘ ᴏꜰ ᴛʜᴇ ɪᴄᴇʙᴇʀɢ. ᴅᴏ ɴᴏᴛᴇ ɪ ɴᴇᴇᴅ
+ᴛᴏ ʙᴇ ᴘʀᴏᴍᴏᴛᴇᴅ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ᴀᴅᴍɪɴ ᴘᴇʀᴍɪꜱꜱɪᴏɴꜱ ᴛᴏ ꜰᴜɴᴄᴛɪᴏɴ ᴘʀᴏᴘᴇʀʟʏ. 
+ᴇʟꜱᴇ ɪ ᴡᴏɴ'ᴛ ʙᴇ ᴀʙʟᴇ ᴛᴏ ꜰᴜɴᴄᴛɪᴏɴ ᴀꜱ ꜱᴀɪᴅ.
+- [Go To Zaid Robot Pm](https://t.me/Zaid2_Robot)
 
 ## Examples
 
@@ -77,7 +76,7 @@ To give you a running start I've put together some starter kits that you can dow
 
 _(deprecated, not recommended)_
 
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
+1. [follow me On GitHub](https://github.com/ITZ-ZAID)
 2. Replace the `Gemfile` with one stating all the gems used in your project
 3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
 4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
