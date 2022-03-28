@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Zaid is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Zaid is a Safest and affective [Telegram](https://t.me/Zaid2_Robot) Management Bot. Some Extra Information.
+Zaid is a Safest and affective [Telegram](https://t.me/Zaid2_Robot) Management Bot. Some Extra Features.
 
 {% include button.html text="Follow me" icon="github" link="https://github.com/ITZ-ZAID" color="#0366d6" %} {% include button.html text="Add Zaid Robot ➕" link="https://t.me/Zaid2_Robot?startgroup=true" color="#f68140" %} {% include button.html text="Support" icon="telegram" link="https://t.me/Superior_Support" color="#0d94e7" %} {% include button.html text="Updates Channel ⚗️" link="https://t.me/Superior_Bots" %}
 
@@ -65,53 +65,30 @@ Here is the Some Basic Information about Zaid
 
 ### Quick setup Guide
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+The first thing to do is to [Add Zaid](https://t.me/Zaid2_Robot?startgroup=true) to your group! For doing that, press the link and select your group
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+**Now for let me work correctly, you need to make me Admin of your Group!**
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
+To do that, follow this easy steps: 
+- ▫️ Go to your group
+- ▫️ Press the Group's name
+- ▫️ Press Modify
+- ▫️ Press on Administrator
+- ▫️ Press Add Administrator
+- ▫️ Press the Magnifying Glass
+- ▫️ Search `@Zaid2_Robot`
+- ▫️ Confirm
 
-### As a Jekyll theme
+- **Now the Bot is ready to use**!
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+Using the /settings command you have at your disposal a series of things that can be modified how you prefer, as required for your group.
 
-### As a GitHub Pages remote theme
+- Join also To Our [Support](https://t.me/Superior_Support) and [Updates Channel](https://t.me/Superior_Bots) to Get Letest News
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+### Donation?
 
-### As a Boilerplate / Fork
+- Your Small supports Can Make Affective Zaid on Telegram
+- [Via Indian Banking/wallet/UPI etc](https://rzp.io/l/GODFATHERDONATIONS)
+- [Via Paypal](https://www.paypal.me/mrakki58)
+- Crypto BTC. `bc1q2jfgvczeye5e6kduvfayhwj6lkwkcjr4u70v34`
 
-_(deprecated, not recommended)_
-
-1. [follow me On GitHub](https://github.com/ITZ-ZAID)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-## Customising
-
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
-
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
-
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
