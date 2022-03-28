@@ -94,8 +94,8 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "ZaidRobot" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Zaid is a telegram management bot projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+logo: "https://telegra.ph/file/b16fdbd7d80125b42af9d.png" # Site logo, also used in jekyll-seo-tag
+description: "Zaid is a telegram management bot projects." # Site description and default description, also used in jekyll-seo-tag
 url: "https://zaid-robot.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/ZAID-ROBOT/Zaid-Robot.github.io"
