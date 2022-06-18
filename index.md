@@ -6,6 +6,8 @@ feature_text: |
 feature_image: "https://telegra.ph/file/8cbad768da9799f9f0073.jpg"
 excerpt: "This Website Designed By [Zaid](https://t.me/Timesisnotwaiting) To Make Affective Information About Zaid 🤨."
 ---
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5884051158127501"
+     crossorigin="anonymous"></script>
 
 Zaid is a Safest and affective [Telegram](https://t.me/Zaid2_Robot) Management Bot. Some Extra Features.
 
