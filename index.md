@@ -3,7 +3,7 @@ title: About Zaid Robot
 feature_text: |
   ## Zaid Robot
   ᴀɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ꜰᴜɴ ᴇxᴛʀᴀꜱ ;)
-feature_image: "https://telegra.ph/file/8cbad768da9799f9f0073.jpg"
+feature_image: "https://justpaste.it/img/42b4301685f0fa2fe96bbe014bd268cd.jpg"
 excerpt: "This Website Designed By [Zaid](https://t.me/Timesisnotwaiting) To Make Affective Information About Zaid 🤨."
 ---
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5884051158127501"
