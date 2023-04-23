@@ -11,7 +11,7 @@ excerpt: "This Website Designed By [Zaid](https://t.me/Timesisnotwaiting) To Mak
 
 Zaid is a Safest and affective [Telegram](https://t.me/Zaid2_Robot) Management Bot. Some Extra Features.
 
-{% include button.html text="Follow me" icon="github" link="https://github.com/ITZ-ZAID" color="#0366d6" %} {% include button.html text="Add Zaid Robot ➕" link="https://t.me/Zaid2_Robot?startgroup=true" color="#f68140" %} {% include button.html text="Support" icon="telegram" link="https://t.me/Superior_Support" color="#0d94e7" %} {% include button.html text="Updates Channel ⚗️" link="https://t.me/Superior_Bots" %} {% include button.html text="Donate💲" link="https://rzp.io/l/GODFATHERDONATIONS" color="#f68140" %}
+{% include button.html text="Follow me" icon="github" link="https://github.com/ITZ-ZAID" color="#0366d6" %} {% include button.html text="Add Zaid Robot ➕" link="https://t.me/Zaid2_Robot?startgroup=true" color="#f68140" %} {% include button.html text="Support" icon="telegram" link="https://t.me/TheSupportChat" color="#0d94e7" %} {% include button.html text="Updates Channel ⚗️" link="https://t.me/TheUpdatesChannel" %} {% include button.html text="Donate💲" link="https://rzp.io/l/GODFATHERDONATIONS" color="#f68140" %}
 
 ## Features
 
@@ -51,7 +51,7 @@ To do that, follow this easy steps:
 
 Using the `/settings` command you have at your disposal a series of things that can be modified how you prefer, as required for your group.
 
-- Join also To Our [Support](https://t.me/Superior_Support) and [Updates Channel](https://t.me/Superior_Bots) to Get Letest News
+- Join also To Our [Support](https://t.me/TheSupportChat) and [Updates Channel](https://t.me/TheUpdatesChannel) to Get Letest News
 
 ## Basic Information
 
@@ -93,7 +93,7 @@ Here is the Some Basic Information about Zaid
 
 **Your Small supports Can Make Affective Zaid on Telegram**
 
-- [Via Indian Banking/wallet/UPI etc](https://rzp.io/l/GODFATHERDONATIONS)
+- Via Indian UPI. `cfmer.22610000494917@icici`
 
 - [Via Paypal](https://www.paypal.me/mrakki58)
 
